@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://cualelijo.es/</loc><lastmod>2026-11-11</lastmod><priority>1.0</priority></url>
-<url><loc>https://cualelijo.es/todas-las-guias.html</loc><lastmod>2026-11-11</lastmod><priority>0.8</priority></url>
-<url><loc>https://cualelijo.es/como-elegimos.html</loc><lastmod>2026-11-11</lastmod><priority>0.4</priority></url>
-<url><loc>https://cualelijo.es/quienes-somos.html</loc><lastmod>2026-11-11</lastmod><priority>0.3</priority></url>
+<url><loc>https://cualelijo.es/</loc><lastmod>2026-11-12</lastmod><priority>1.0</priority></url>
+<url><loc>https://cualelijo.es/todas-las-guias.html</loc><lastmod>2026-11-12</lastmod><priority>0.8</priority></url>
+<url><loc>https://cualelijo.es/como-elegimos.html</loc><lastmod>2026-11-12</lastmod><priority>0.4</priority></url>
+<url><loc>https://cualelijo.es/quienes-somos.html</loc><lastmod>2026-11-12</lastmod><priority>0.3</priority></url>
 <url><loc>https://cualelijo.es/categoria/hogar.html</loc><lastmod>2026-11-06</lastmod><priority>0.7</priority></url>
 <url><loc>https://cualelijo.es/categoria/cocina.html</loc><lastmod>2026-10-31</lastmod><priority>0.7</priority></url>
 <url><loc>https://cualelijo.es/categoria/descanso.html</loc><lastmod>2026-11-01</lastmod><priority>0.7</priority></url>
-<url><loc>https://cualelijo.es/categoria/electronica.html</loc><lastmod>2026-11-05</lastmod><priority>0.7</priority></url>
+<url><loc>https://cualelijo.es/categoria/electronica.html</loc><lastmod>2026-11-12</lastmod><priority>0.7</priority></url>
 <url><loc>https://cualelijo.es/categoria/confort-en-casa.html</loc><lastmod>2026-11-09</lastmod><priority>0.7</priority></url>
 <url><loc>https://cualelijo.es/categoria/bebe-e-infantil.html</loc><lastmod>2026-11-11</lastmod><priority>0.7</priority></url>
 <url><loc>https://cualelijo.es/categoria/regalos.html</loc><lastmod>2026-11-07</lastmod><priority>0.7</priority></url>
@@ -31,11 +31,12 @@
 <url><loc>https://cualelijo.es/mejores/mejores-chimeneas-electricas.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority></url>
 <url><loc>https://cualelijo.es/mejores/mejores-juguetes-para-ninos-de-3-anos.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
 <url><loc>https://cualelijo.es/mejores/mejores-regalos-de-reyes-para-ninos.html</loc><lastmod>2026-11-11</lastmod><priority>0.9</priority></url>
-<url><loc>https://cualelijo.es/asistente-de-compra.html</loc><lastmod>2026-11-11</lastmod><priority>0.7</priority></url>
-<url><loc>https://cualelijo.es/mejor-calidad-precio.html</loc><lastmod>2026-11-11</lastmod><priority>0.7</priority></url>
-<url><loc>https://cualelijo.es/regalos/</loc><lastmod>2026-11-11</lastmod><priority>0.8</priority></url>
-<url><loc>https://cualelijo.es/black-friday/</loc><lastmod>2026-11-11</lastmod><priority>0.8</priority></url>
-<url><loc>https://cualelijo.es/comparativas/</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
+<url><loc>https://cualelijo.es/mejores/mejores-televisores-oled.html</loc><lastmod>2026-11-12</lastmod><priority>0.9</priority></url>
+<url><loc>https://cualelijo.es/asistente-de-compra.html</loc><lastmod>2026-11-12</lastmod><priority>0.7</priority></url>
+<url><loc>https://cualelijo.es/mejor-calidad-precio.html</loc><lastmod>2026-11-12</lastmod><priority>0.7</priority></url>
+<url><loc>https://cualelijo.es/regalos/</loc><lastmod>2026-11-12</lastmod><priority>0.8</priority></url>
+<url><loc>https://cualelijo.es/black-friday/</loc><lastmod>2026-11-12</lastmod><priority>0.8</priority></url>
+<url><loc>https://cualelijo.es/comparativas/</loc><lastmod>2026-11-12</lastmod><priority>0.6</priority></url>
 <url><loc>https://cualelijo.es/comparativas/dyson-v15-detect-vs-rowenta-x-force-flex-11-60.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://cualelijo.es/comparativas/sony-wf-1000xm6-vs-soundcore-liberty-4-pro.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://cualelijo.es/comparativas/delonghi-magnifica-evo-vs-philips-2200.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
@@ -56,4 +57,5 @@
 <url><loc>https://cualelijo.es/comparativas/cecotec-ready-warm-2650-vs-cecotec-ready-warm-2200.html</loc><lastmod>2026-11-09</lastmod><priority>0.6</priority></url>
 <url><loc>https://cualelijo.es/comparativas/lego-duplo-dinosaurios-sobre-ruedas-3en1-10451-vs-coodoo-bloques-magneticos-100-piezas-con-2-coches.html</loc><lastmod>2026-11-10</lastmod><priority>0.6</priority></url>
 <url><loc>https://cualelijo.es/comparativas/lego-city-parque-de-bomberos-con-camion-60414-vs-ravensburger-labyrinth-juego-de-mesa.html</loc><lastmod>2026-11-11</lastmod><priority>0.6</priority></url>
+<url><loc>https://cualelijo.es/comparativas/lg-oled-evo-c6-oled55c64la-vs-lg-oled-b5-oled55b56la.html</loc><lastmod>2026-11-12</lastmod><priority>0.6</priority></url>
 </urlset>
